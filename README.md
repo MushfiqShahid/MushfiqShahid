@@ -1,6 +1,6 @@
          *** Bismillahir Rahmanir Rahim ***
 - 👋 Assalamu Alaikum, I’m @MushfiqShahid
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Artificial Intelligence, Data Science, Software Development
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate on anyone who is collaborative
 - 📫 How to reach me Whatsapp: +8801581197535,  +8801753995790
