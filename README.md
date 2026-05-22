@@ -1,11 +1,10 @@
          *** Bismillahir Rahmanir Rahim ***
 - 👋 Assalamu Alaikum, I’m @MushfiqShahid
-- 👀 I’m interested in Islam, Artificial Intelligence, Data Science, Software Development, Finance and Banking
+- 👀 I’m interested in Islam, Artificial Intelligence, Cyber Security, Software Development, Finance and Banking
 - 🌱 I’m currently learning everything I can
 - 💞️ I’m looking to collaborate with anyone who is collaborative
 - 💞️ Willing to do whatever it takes to be the TOP
-- 📫 How to reach me Whatsapp: +8801581197535,  +8801753995790
--                    Telegram: +8801581197535
+- 📫 Email: mushfiqshahed@gmail.com,  mushfiqshahid1@gmail.com, 2001023@iot.uftb.ac.bd
 -  Motto of life: =  La Ilaha Illallahu Muhammadur Rasulullah
 
 <!---
